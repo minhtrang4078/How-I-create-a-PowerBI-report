@@ -37,6 +37,7 @@ Here are some reasons that I observed:
   
 
 ## Process to create an efficient Power BI report
+In general here is what I do:
 ### Step 1: Understanding a report's purposes
 - Firstly, understand the audience demand: Features combined into a report based on our audience. Operational and analytical audiences may required different demands. 
 - Next, understand the business problem: for example, which is the key KPI that should be included? 
