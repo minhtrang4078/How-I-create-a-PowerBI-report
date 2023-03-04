@@ -61,7 +61,7 @@ Here are some reasons that I observed:
 
 ### Step 3: Build the report
 #### Consider features included in the report
-All of the features 
+All of the features added are based on the users' opinions. In this report, I use:
 - Drill Mode: Drill up and Drill through 
 - Tooltip 
 - What If Analysis
