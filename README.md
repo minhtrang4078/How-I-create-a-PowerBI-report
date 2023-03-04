@@ -44,7 +44,7 @@ Here are some reasons that I observed:
 ### Step 2: Data Understanding and Preparation
 - Follow the ELT process, and handle the data in Power Pivot with DAX language.
 - Which data is possible and which data should be collected additionally?
-- This is the technical part, which will be shown while checking the *.pbix file
+- This is the technical part, please check the *.pbix file
 
 ### Step 3: Build the report
 #### Consider features included in the report
