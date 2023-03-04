@@ -9,10 +9,10 @@
   - [Quick summary in video](#Quick-summary-in-video)
   - [Why there can be a low Power Bi adoption (less users) through time? ](#Why-there-can-be-a-low-Power-Bi-adoption-(less-users)-through-time?)
   - [Process to creat an efficient Power BI report](#Process-to-creat-an-efficient-Power-BI-report)
-    - [Step 1: Understanding a report's purposes](#Step-1-:-Understanding-a-report's-purposes)
-    - [Step 2: Data Understanding and Preparation](#Step-2-:-Data-Understanding-and-Preparation)
-    - [Step 3: Build the report](#Step-3-:-Build-the-report)
-    - [Step 4: Final products and getting feedback](Step-4-:-Final-products-and-getting-feedback)
+    - [Step 1: Understanding a report's purposes]
+    - [Step 2: Data Understanding and Preparation]
+    - [Step 3: Build the report]
+    - [Step 4: Final products and getting feedback]
  
 ## Quick summary in video
 
