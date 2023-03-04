@@ -21,18 +21,12 @@
 ## Why there can be a low Power Bi adoption (less users) through time? 
 Here are some reasons that I observed:
 - Firsly, THE MOST IMPORTANT REASONS: 
-
   • Insights are not useful for  business actions • Insights are not actionable enough for the audiences • Don’t trust the results/insights (black box problem)  
 - VISUALIZYTION:
-
   • Too complicated to interpret, only serve the purpose of a small group • Too much details, redundant things that people don’t expect, or too simple
-  
-- DATABASE: 
-
+- DATABASE:
   • Not updated in time, slow • Not enough data, or the data is unreliable • Lack of data maintenance
-  
-- AUDIENCES: 
-
+- AUDIENCES:
   • Conservative, not ready to change (e.g prefer Excel) • Lack of data culture within a department
   
 
@@ -57,7 +51,7 @@ All of the features added are based on the users' opinions. In this report, I us
 - line charts, bar charts which can be shown as tables
 - decomposition tree to understand key metrics
 
-## Step 4: Final products and getting feedback
+### Step 4: Final products and getting feedback
 - Modify the reports based on the feedbacks for the report, and this step is like a mantainance activities for a longer time after the report creation.
 - Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
 - Track the metrics of users
