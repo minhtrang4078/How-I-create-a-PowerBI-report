@@ -45,8 +45,7 @@ Here are some reasons that I observed:
 ## Steps
 ### Business understanding 
 #### Audience
-Both operational and analytical audiences
-Features combined into a report based on our audience.
+Features combined into a report based on our audience. Operational and analytical audiences may required different demands. 
 
 ### Data Understanding and Preparation
 Follow the ELT process, and handle the data in Power Pivot with DAX language.
