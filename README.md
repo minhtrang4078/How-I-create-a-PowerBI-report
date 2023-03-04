@@ -8,7 +8,7 @@
 
   - [Quick summary in video](#Quick-summary-in-video)
   - [Why there can be a low Power Bi adoption (less users) through time? ](#Why-there-can-be-a-low-Power-Bi-adoption-(less-users)-through-time?)
-  - [Process to creat an efficient Power BI report](#Process-to-creat-an-efficient-Power-BI-report)
+  - [Process to create an efficient Power BI report](#Process-to-create-an-efficient-Power-BI-report)
     - Step 1: Understanding a report's purposes
     - Step 2: Data Understanding and Preparation
     - Step 3: Build the report]
@@ -36,7 +36,7 @@ Here are some reasons that I observed:
   • Conservative, not ready to change (e.g prefer Excel) • Lack of data culture within a department
   
 
-## Process to creat an efficient Power BI report
+## Process to create an efficient Power BI report
 ### Step 1: Understanding a report's purposes
 - Firstly, understand the audience demand: Features combined into a report based on our audience. Operational and analytical audiences may required different demands. 
 - Next, understand the business problem: for example, which is the key KPI that should be included? 
