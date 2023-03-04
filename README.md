@@ -1,14 +1,13 @@
-# How I create a PowerBI report
+# How I create a PowerBI report for finacial performance steering
 
 ## Context & purposes:
-To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
-
-I would like to share my view from my working experience with Power BI so far.
-
-The data used is taken from kaggle for visualization purposes only, nothing related to the companies that I used to work for.
+- This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI so far.
+- To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
+- The data is the combinatio of many resources and with fictional/ randomly generated for visualization purposes only, nothing related to the companies that I used to work for.
 
 ## Quick summary with videoCancel changes
 
+? video link
 
 ## Why there can be a low Power Bi adoption (less users) through time? 
 Here are some reasons that I observed:
@@ -41,17 +40,19 @@ Here are some reasons that I observed:
   • Lack of data culture within a department
   
 
+## Process to creat an efficient Power BI report
+### Step 1: Understanding a report's purposes
+- Firstly, understand the audience demand: Features combined into a report based on our audience. Operational and analytical audiences may required different demands. 
+- Next, understand the business problem: for example, which is the key KPI that should be included? 
 
-## Steps
-### Business understanding 
-#### Audience
-Features combined into a report based on our audience. Operational and analytical audiences may required different demands. 
+### Step 2: Data Understanding and Preparation
+- Follow the ELT process, and handle the data in Power Pivot with DAX language.
+- Which data is possible and which data should be collected additionally?
+- This is the technical part, which will be shown while checking the *.pbix file
 
-### Data Understanding and Preparation
-Follow the ELT process, and handle the data in Power Pivot with DAX language.
-
-### Build the report
-#### Features included in the report
+### Step 3: Build the report
+#### Consider features included in the report
+All of the features 
 - Drill Mode: Drill up and Drill through 
 - Tooltip 
 - What If Analysis
@@ -60,5 +61,7 @@ Follow the ELT process, and handle the data in Power Pivot with DAX language.
 - line charts, bar charts which can be shown as tables
 - decomposition tree to understand key metrics
 
-## Final products
-Please watch the above video or download the *.pbix file for the details
+## Step 4: Final products and getting feedback
+- Modify the reports based on the feedbacks for the report, and this step is like a mantainance activities for a longer time after the report creation.
+- Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
+- Track the metrics of users
