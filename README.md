@@ -13,6 +13,7 @@ The data used is taken from kaggle for visualization purposes only, nothing rela
 ## Why there can be a low Power Bi adoption (less users) through time? 
 Here are some reasons that I observed:
 - Firsly, THE MOST IMPORTANT REASONS: 
+
   • Insights are not useful for  business actions 
   
   • Insights are not actionable enough for the audiences 
@@ -20,11 +21,13 @@ Here are some reasons that I observed:
   • Don’t trust the results/insights (black box problem)
   
 - VISUALIZYTION:
+
   • Too complicated to interpret, only serve the purpose of a small group 
   
   • Too much details, redundant things that people don’t expect, or too simple
   
 - DATABASE: 
+
   • Not updated in time, slow 
   
   • Not enough data, or the data is unreliable 
@@ -32,6 +35,7 @@ Here are some reasons that I observed:
   • Lack of data maintenance
   
 - AUDIENCES: 
+
   • Conservative, not ready to change (e.g prefer Excel) 
   
   • Lack of data culture within a department
