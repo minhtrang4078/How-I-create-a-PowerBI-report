@@ -72,5 +72,7 @@ All of the features added are based on the users' opinions. In this report, I us
 - Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
 - Track the metrics of users
 
+### Step 5: Keep the reports updated with the requirement of users
+
 # Quick look at the report
 ![intro2](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/preview.jpg)
