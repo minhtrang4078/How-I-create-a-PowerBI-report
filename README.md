@@ -70,4 +70,4 @@ All of the features added are based on the users' opinions. In this report, I us
 ![one](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/one.jpg)
 ![two](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/two.jpg)
 ![three](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/three.jpg)
-![four](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/four.jpg) 
+![four](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/four.jpg)
