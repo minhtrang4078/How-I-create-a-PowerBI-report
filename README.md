@@ -2,8 +2,9 @@
 
 ![intro](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/intro.jpg)
 
-# Quick look at the report
-![intro2](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/preview.jpg)
+## Quick presentation of the Power BI report in 2 min-video
+
+? video link
 
 [Download the *.pbix file here](https://drive.google.com/file/d/1yqmVYuUfAr-6bIJPn0E_o3ru7i-TwBZR/view?usp=sharing) 
 
@@ -21,10 +22,6 @@
     - Step 2: Data Understanding and Preparation
     - Step 3: Build the report]
     - Step 4: Final products and getting feedback
- 
-## Quick summary in video
-
-? video link
 
 ## Why there can be a low Power Bi adoption (less users) through time? 
 Here are some reasons that I observed:
@@ -70,3 +67,6 @@ All of the features added are based on the users' opinions. In this report, I us
 - Modify the reports based on the feedbacks for the report, and this step is like a mantainance activities for a longer time after the report creation.
 - Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
 - Track the metrics of users
+
+# Quick look at the report
+![intro2](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/preview.jpg)
