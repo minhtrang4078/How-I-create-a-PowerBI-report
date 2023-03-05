@@ -1,15 +1,14 @@
 # How I create a PowerBI report for finacial performance steering
 
-![intro](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/intro.jpg)
+[Download the *.pbix file here](https://drive.google.com/file/d/1eUiLZEjrC5NtbtuQLv92x0HhmCBfiV_9/view?usp=sharing)
 
-## Quick presentation of the Power BI report in 2 min-video
+[Download the *.pdf file here](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Sales%20and%20return%20report%20data.pdf)
+
+## Quick presentation of the Power BI report in 2-minute-video
 
 https://youtu.be/50aoWakB5-I
 [![Watch the video](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/intro.jpg)](https://youtu.be/50aoWakB5-I)
 
-[Download the *.pbix file here](https://drive.google.com/file/d/1eUiLZEjrC5NtbtuQLv92x0HhmCBfiV_9/view?usp=sharing)
-
-[Download the *.pdf file here](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Sales%20and%20return%20report%20data.pdf)
 ## Context & purposes:
 - This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI so far.
 - To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
