@@ -57,7 +57,7 @@ All of the features added are based on the users' opinions. In this report, I us
 - Tooltip 
 - What If Analysis
 
-#### Condider the types of visualization
+#### Consider the types of visualization
 - line charts, bar charts which can be shown as tables
 - decomposition tree to understand key metrics
 
@@ -65,3 +65,9 @@ All of the features added are based on the users' opinions. In this report, I us
 - Modify the reports based on the feedbacks for the report, and this step is like a mantainance activities for a longer time after the report creation.
 - Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
 - Track the metrics of users
+
+# Quick look at the report
+![one](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/one.jpg)
+![two](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/two.jpg)
+![three](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/three.jpg)
+![four](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/four.jpg)
