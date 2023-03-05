@@ -1,7 +1,7 @@
 # How I create a PowerBI report for finacial performance steering
 
 ![intro](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/intro.jpg)
-![intro2]()
+![intro2](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/preview.jpg)
 
 [Download the *.pbix file here](https://drive.google.com/file/d/1yqmVYuUfAr-6bIJPn0E_o3ru7i-TwBZR/view?usp=sharing) 
 
