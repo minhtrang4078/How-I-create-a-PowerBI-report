@@ -12,7 +12,8 @@ https://youtu.be/50aoWakB5-I
 ## Context & purposes:
 - This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI so far.
 - To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
-- The data is the combinatio of many resources and with fictional/ randomly generated for visualization purposes only, nothing related to the companies that I used to work for.
+- The data is the combination of many resources and with fictional/ randomly generated for visualization purposes only.
+
 ## Contents
 
   - [Quick summary in video](#Quick-summary-in-video)
