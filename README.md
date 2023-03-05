@@ -1,5 +1,6 @@
 # How I create a PowerBI report for finacial performance steering
 
+[Download the file here](https://drive.google.com/file/d/1yqmVYuUfAr-6bIJPn0E_o3ru7i-TwBZR/view?usp=sharing) 
 ## Context & purposes:
 - This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI so far.
 - To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
