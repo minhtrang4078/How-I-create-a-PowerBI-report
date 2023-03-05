@@ -59,11 +59,11 @@ In general here is what I do:
 #### Consider features included in the report
 All of the features added are based on the users' opinions. In this report, I use:
 - Drill Mode: Drill up and Drill through 
-- Tooltip 
+- Pop up analysis with tree and key influence factors
 - What If Analysis
 
 #### Consider the types of visualization
-- line charts, bar charts which can be shown as tables
+- line charts, bar charts which can be switched into tables
 - decomposition tree to understand key metrics
 
 ### Step 4: Final products and getting feedback
