@@ -4,7 +4,8 @@
 
 ## Quick presentation of the Power BI report in 2 min-video
 
-? video link
+https://youtu.be/50aoWakB5-I
+[![Watch the video](https://youtu.be/50aoWakB5-I)
 
 [Download the *.pbix file here](https://drive.google.com/file/d/1eUiLZEjrC5NtbtuQLv92x0HhmCBfiV_9/view?usp=sharing)
 
