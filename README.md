@@ -1,4 +1,4 @@
-# How I create a PowerBI report for financial performance steering
+# Power BI showcases: How I create a PowerBI report for financial performance steering
 
 [Download the *.pbix file here](https://drive.google.com/file/d/1eUiLZEjrC5NtbtuQLv92x0HhmCBfiV_9/view?usp=sharing)
 
