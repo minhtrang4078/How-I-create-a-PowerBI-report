@@ -16,7 +16,7 @@ https://youtu.be/50aoWakB5-I
 
 ## Contents
 
-  - [Quick summary in video](https://www.youtube.com/watch?v=50aoWakB5-I)
+  - [Quick summary in a video](https://www.youtube.com/watch?v=50aoWakB5-I)
   - [Why there can be a low Power Bi adoption (less users) through time? ](#Why-there-can-be-a-low-Power-Bi-adoption-(less-users)-through-time?)
   - [Process to create an efficient Power BI report](#Process-to-create-an-efficient-Power-BI-report)
     - Step 1: Understanding a report's purposes
