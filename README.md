@@ -68,7 +68,7 @@ All of the features added are based on the users' opinions. In this report, I us
 - decomposition tree to understand key metrics
 
 ### Step 4: Final products and getting feedback
-- Modify the reports based on the feedbacks for the report, and this step is like THE maintenance for a longer time after the report creation.
+- Modify the reports based on the feedbacks for the report, and this step is like the maintenance for a longer time after the report creation.
 - Training: how to use the reports, which answers can be found, show how the analysis is done to avoid the mistakes for someone who is skeptical about how the figures are calculated
 - Track the metrics of users
 
