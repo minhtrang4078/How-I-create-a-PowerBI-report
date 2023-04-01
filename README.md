@@ -10,7 +10,7 @@ https://youtu.be/50aoWakB5-I
 [![Watch the video](https://github.com/minhtrang4078/How-I-create-a-PowerBI-report/blob/main/Images/intro.jpg)](https://youtu.be/50aoWakB5-I)
 
 ## Context & purposes:
-- This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI so far.
+- This file is mainly a part of my CV, with the purpose to show how I have been working with Power BI with DAX so far.
 - To keep a report/dashboard visited by users, it is very important to consider many factors besides the technical aspect of Power BI.
 - The data is the combination of many resources and with fictional/ randomly generated for visualization purposes only.
 
@@ -27,7 +27,7 @@ https://youtu.be/50aoWakB5-I
 ## Why there can be a low Power Bi adoption (less users) through time? 
 Here are some reasons that I observed:
 - THE MOST IMPORTANT REASONS
-   - Insights are not useful for  business actions 
+   - Insights are not useful for business actions 
    - Insights are not actionable enough for the audiences
    - Don’t trust the results/insights (black box problem)  
 - VISUALIZATION
